@@ -5,3 +5,5 @@ Welcome to my repo!
 
 my github intro
 
+## Contact
+Find me at @mayor.rottenchild
